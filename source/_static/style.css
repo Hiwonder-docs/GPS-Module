@@ -20,7 +20,7 @@ section p {
 section .rst-content .admonition{
     background: #e3e3e3;
 }
-section .rst-content .note .admonition-title{
+section .rst-content .note .admonition-title, section .rst-content .admonition-title{
     color: #f98800;
     background: #343131;
 }
